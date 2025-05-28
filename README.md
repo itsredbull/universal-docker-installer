@@ -1,6 +1,4 @@
 # universal-docker-installer
-Automated Docker installation script for multiple Linux distributions
-# Docker Auto-Installer
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Shell](https://img.shields.io/badge/shell-bash-green.svg)
@@ -47,7 +45,7 @@ A universal, automated Docker installation script that detects your Linux distri
 
 ```bash
 # Download and run the script
-curl -fsSL https://raw.githubusercontent.com/yourusername/docker-auto-installer/main/install_docker.sh -o install_docker.sh
+curl -fsSL https://raw.githubusercontent.com/itsredbull/universal-docker-installer/main/install_docker.sh -o install_docker.sh
 chmod +x install_docker.sh
 sudo ./install_docker.sh
 ```
@@ -56,7 +54,7 @@ sudo ./install_docker.sh
 
 1. **Download the script**:
    ```bash
-   wget https://raw.githubusercontent.com/itsredbull/docker-auto-installer/main/install_docker.sh
+   wget https://raw.githubusercontent.com/itsredbull/universal-docker-installer/main/install_docker.sh
    ```
 
 2. **Make it executable**:
@@ -147,7 +145,7 @@ cat /etc/os-release
 
 - Check the installation log: `/dockerinstalllog.text`
 - Review [Docker's official documentation](https://docs.docker.com/)
-- Open an [issue](https://github.com/itsredbull/docker-auto-installer/issues) on GitHub
+- Open an [issue](https://github.com/itsredbull/universal-docker-installer/issues) on GitHub
 
 ## 🤝 Contributing
 
@@ -180,8 +178,8 @@ If this script helped you, please consider:
 
 ## 📞 Contact
 
-- **Issues**: [GitHub Issues](https://github.com/itsredbull/docker-auto-installer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/itsredbull/docker-auto-installer/discussions)
+- **Issues**: [GitHub Issues](https://github.com/itsredbull/universal-docker-installer/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/itsredbull/universal-docker-installer/discussions)
 
 ---
 
