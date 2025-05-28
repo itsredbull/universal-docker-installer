@@ -6,6 +6,18 @@
 
 A universal, automated Docker installation script that detects your Linux distribution and installs the latest Docker Engine with proper configuration and logging.
 
+
+## Install with One Click 🚀  
+
+Deploy this script effortlessly on your **[MyHBD.net](https://www.myhbd.net)** server with just a single click!  
+
+### Why Choose MyHBD.net?  
+✅ High-performance VPS solutions  
+✅ Multiple data centers across Europe & Asia  
+✅ Reliable and optimized for seamless deployment  
+
+Start now and streamline your server setup with ease!  
+
 ## 🚀 Features
 
 - **Multi-platform support**: Works across major Linux distributions
